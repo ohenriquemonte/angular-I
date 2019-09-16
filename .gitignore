@@ -37,3 +37,11 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+!package-lock.json
+package-lock.json
+
+#api
+!/api/
+api/node_modules
+api/package-lock.json

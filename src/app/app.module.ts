@@ -13,7 +13,8 @@ import { PhotosModule } from './photos/photos.module';
 		BrowserModule,
 		PhotosModule
 	],
-	providers: [],
+	providers: [
+	],
 	bootstrap: [AppComponent]
 })
 export class AppModule { }
