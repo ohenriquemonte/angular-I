@@ -1,3 +1,4 @@
+import { SearchComponent } from './photo-list/search/search.component';
 import { NgModule } from '@angular/core';
 
 import { PhotoListModule } from './photo-list/photo-list.module';
